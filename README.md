@@ -1,2 +1,6 @@
 # Tableau-Dashboard-Project
-Ambient Air Quality Dashboard: Visualized WHO air quality data to compare PM2.5 pollution levels across countries.
+
+Ambient Air Quality Analysis (WHO Data)  
+Dashboard Link: https://public.tableau.com/app/profile/aryan.sarate/viz/Project_Air_Pollution_Proj1/Dashboard1
+
+Analyzed air pollution levels across countries using WHO data.
